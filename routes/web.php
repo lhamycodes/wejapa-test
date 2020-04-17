@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::group(['prefix' => 'ussd'], function () {
+    Route::get('track/{order}/', 'USSD\GeneralController@track');
+    Route::post('stats', 'USSD\GeneralController@stats');
+});

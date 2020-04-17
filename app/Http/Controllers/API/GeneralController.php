@@ -20,7 +20,7 @@ class GeneralController extends Controller
         if ($order) {
             return response()->json(Json::response(200, ['order' => $order], "Order $info retrieved"), 200);
         } else {
-            return response()->json(Json::response(400, [], "Package not found"), 400);
+            return response()->json(Json::response(400, [], "Order not found"), 400);
         }
     }
 
