@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>support</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFB800" offset="0%"></stop>
+            <stop stop-color="#FF3900" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Disha-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website-Icons" transform="translate(-363.000000, -160.000000)">
+            <g id="support" transform="translate(363.000000, 160.000000)">
+                <circle id="Oval-Copy-2" fill="url(#linearGradient-1)" cx="40" cy="40" r="40"></circle>
+                <g id="help-circle" transform="translate(21.000000, 21.000000)">
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" cx="18.75" cy="18.75" r="18.75"></circle>
+                    <path d="M13.29375,13.125 C14.2039441,10.5375833 16.8475943,8.98388686 19.5509556,9.44758519 C22.2543169,9.91128353 24.2290863,12.2571617 24.2250063,15 C24.2250063,18.75 18.6,20.625 18.6,20.625" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+                    <rect id="Rectangle" fill="#FFFFFF" x="17.5" y="26" width="2.5" height="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

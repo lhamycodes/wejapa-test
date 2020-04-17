@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>easy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFB800" offset="0%"></stop>
+            <stop stop-color="#FF3900" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Disha-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Website-Icons" transform="translate(-135.000000, -160.000000)">
+            <g id="easy" transform="translate(135.000000, 160.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="40" cy="40" r="40"></circle>
+                <path d="M56.1711701,26.022173 C54.2370622,24.087157 51.6133039,23 48.8774201,23 C46.1415363,23 43.5177779,24.087157 41.5836701,26.022173 L39.5961701,28.009673 L37.6086701,26.022173 C33.5804432,21.9939462 27.049397,21.9939463 23.0211702,26.0221731 C18.9929433,30.0504 18.9929433,36.5814461 23.0211701,40.609673 L25.0086701,42.597173 L39.5961701,57.184673 L54.1836701,42.597173 L56.1711701,40.609673 C58.1061861,38.6755652 59.1933431,36.0518068 59.1933431,33.315923 C59.1933431,30.5800392 58.1061861,27.9562809 56.1711701,26.022173 Z" id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

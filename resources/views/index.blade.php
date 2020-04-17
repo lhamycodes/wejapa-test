@@ -53,6 +53,68 @@
             style="background-image: url({{ asset('assets/images/hero.jpg') }}); height: 500px;">
         </div>
 
+        <!-- Learn Section -->
+        <div id="learnSection" class="clearfix border-bottom bg-light space-2">
+            <div class="container">
+                <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-9">
+                    <h2 class="h1 font-weight-semi-bold mb-5" style="line-height:1.3">
+                        Made for creators.<br>Designed for you.
+                    </h2>
+                    <h4 class="h5 font-weight-light">
+                        Our products and templates are streamlined for easy customization. Our focus is on the latest
+                        technology trends, modern design and great user experience.
+                    </h4>
+                </div>
+
+                <div id="SVGicons" class="svg-preloader w-lg-10 mx-md-auto">
+                    <div class="row">
+                        <div class="col-6 col-sm-3 mb-5 mb-sm-0 text-center">
+                            <div class="text-center">
+                                <figure class="ie-height-40 w-100 mx-auto mb-3">
+                                    <img class="js-svg-injector" src="{{ asset('assets/images/svg/easy.svg') }}"
+                                        alt="SVG" data-parent="#SVGicons">
+                                </figure>
+                                <h3 class="h6 font-weight-normal">Easy to Use</h3>
+                                <p class="small px-3">We ensure our tools and templates easy to setup and customize.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-sm-3 mb-5 mb-sm-0">
+                            <div class="text-center">
+                                <figure class="ie-height-40 w-100 mx-auto mb-3">
+                                    <img class="js-svg-injector" src="{{ asset('assets/images/svg/design.svg') }}"
+                                        alt="SVG" data-parent="#SVGicons">
+                                </figure>
+                                <h3 class="h6 font-weight-normal">Premium Design</h3>
+                                <p class="small px-3">Our products ensure a consistent, beautiful brand experience.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-sm-3">
+                            <div class="text-center">
+                                <figure class="ie-height-40 w-100 mx-auto mb-3">
+                                    <img class="js-svg-injector" src="{{ asset('assets/images/svg/clean-code.svg') }}"
+                                        alt="SVG" data-parent="#SVGicons">
+                                </figure>
+                                <h3 class="h6 font-weight-normal">Clean Code</h3>
+                                <p class="small px-3">Our apps are delivered with best code quality and performance.</p>
+                            </div>
+                        </div>
+
+                        <div class="col-6 col-sm-3">
+                            <div class="text-center">
+                                <figure class="ie-height-40 w-100 mx-auto mb-3">
+                                    <img class="js-svg-injector" src="{{ asset('assets/images/svg/support.svg') }}"
+                                        alt="SVG" data-parent="#SVGicons">
+                                </figure>
+                                <h3 class="h6 font-weight-normal">Get Support</h3>
+                                <p class="small px-3">Get fast, professional support through our online community of creators.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </main>
 @endsection
