@@ -53,8 +53,7 @@
             style="background-image: url({{ asset('assets/images/hero.jpg') }}); height: 500px;">
         </div>
 
-        <!-- Learn Section -->
-        <div id="learnSection" class="clearfix border-bottom bg-light space-2">
+        <div class="clearfix border-bottom bg-light space-2">
             <div class="container">
                 <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-9">
                     <h2 class="h1 font-weight-semi-bold mb-5" style="line-height:1.3">
@@ -130,7 +129,7 @@
                 </div>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
                 <h4 class="h6 font-weight-semi-bold">Products</h4>
 
                 <ul
@@ -140,7 +139,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
                 <h4 class="h6 font-weight-semi-bold">Company</h4>
 
                 <ul
@@ -150,7 +149,7 @@
                 </ul>
             </div>
 
-            <div class="col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
                 <h4 class="h6 font-weight-semi-bold">Legal</h4>
 
                 <ul
@@ -161,7 +160,7 @@
                 </ul>
             </div>
 
-            <div class="col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
                 <h4 class="h6 font-weight-semi-bold">Connect</h4>
 
                 <ul
