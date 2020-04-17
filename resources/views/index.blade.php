@@ -139,9 +139,31 @@
         </div>
     </div>
 
+    <div class="container space-bottom-1">
+        <div class="row">
+            <div class="col-lg-12 mb-3 mb-lg-0">
+                <div class="card border-0 gradient-half-warning-v4 text-white shadow h-100overflow-hidden p-6">
+                    <div class="w-lg-50 w-100 pr-2 space-2">
+                        <h3 class="h3 font-weight-medium">Supported by a community</h3>
+                        <p class="text-white">
+                            Our community is the heart of Disha. You can find sneak peeks, vote on upcoming features,
+                            chat, share and learn from our team.
+                        </p>
+                        <a class="btn btn-sm btn-white transition-3d-hover" href="#">
+                            Join the Community
+                        </a>
+                    </div>
+                    <div class="position-absolute right-0 bottom-0 w-50 mb-n3 mr-n4 d-none d-lg-block">
+                        <img class="img-fluid" src="../../assets/img/mockups/img15.png" alt="Image Description">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container space-top-1 space-bottom-1">
         <div class="row text-white">
-            <div class="col-lg-3 mb-7 mb-lg-0">
+            <div class="col-lg-4 mb-7 mb-lg-0">
                 <div class="d-flex align-self-start flex-column h-100">
                     <a class="text-lg-left text-center mb-lg-3" href="/" aria-label="Pag.es">
                         <span class="brand brand-primary font-weight-normal text-white mx-0">Pag.es</span>
