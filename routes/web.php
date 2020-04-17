@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('ussd', 'USSD\GeneralController@ussdRequestHandler');
+Route::post('/ussd', 'USSD\GeneralController@ussdRequestHandler');
 
 // Route::group(['prefix' => 'ussd'], function () {
 //     Route::get('track/{order}/', 'USSD\GeneralController@track');
