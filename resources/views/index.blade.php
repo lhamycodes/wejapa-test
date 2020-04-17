@@ -53,6 +53,62 @@
             style="background-image: url({{ asset('assets/images/hero.jpg') }}); height: 500px;">
         </div>
 
+        <div class="space-2">
+            <div class="container">
+                <div class="row justify-content-lg-between align-items-lg-center">
+                    <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
+                        <div class="pl-lg-7">
+                            <div class="mb-4">
+                                <h3 class="h5">Professional design</h3>
+                                <p>Easy and fast adjustments of elements are possible with Front template. Find our more
+                                    about our all-in-one programmatic template.</p>
+                            </div>
+
+                            <a class="card border-0 shadow-sm" href="#">
+                                <div class="card-body p-4">
+                                    <div class="media align-items-center">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="SVGdrawingWoman" class="col-lg-6 order-lg-1 pb-lg-0 pb-3">
+                        <figure class="ie-drawing-woman">
+                            <img class="img-fluid" src="{{ asset('assets/images/info1.png') }}" alt="Info 1">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row justify-content-lg-between align-items-lg-center">
+                    <div class="col-lg-5 mb-7 mb-lg-0">
+                        <div class="pr-lg-7">
+                            <div class="mb-4">
+                                <h3 class="h5">Front process</h3>
+                                <p>Once you are invited to Front Agency, you company will be set within days. We help to
+                                    take of all the paperwork.</p>
+                            </div>
+
+                            <a class="card border-0 shadow-sm" href="#">
+                                <div class="card-body p-4">
+                                    <div class="media align-items-center">
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="SVGdrawingWoman" class="col-lg-6 order-lg-1 pb-lg-0 pb-3">
+                        <figure class="ie-drawing-woman">
+                            <img class="img-fluid" src="{{ asset('assets/images/info2.png') }}" alt="Info 2">
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="clearfix border-bottom bg-light space-2">
             <div class="container">
                 <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-9">
@@ -154,7 +210,7 @@
                         </a>
                     </div>
                     <div class="position-absolute right-0 bottom-0 w-50 mb-n3 mr-n4 d-none d-lg-block">
-                        <img class="img-fluid" src="../../assets/img/mockups/img15.png" alt="Image Description">
+                        <img class="img-fluid" src="{{ asset('assets/images/img15.png') }}" alt="Image Description">
                     </div>
                 </div>
             </div>
