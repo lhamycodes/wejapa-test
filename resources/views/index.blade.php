@@ -57,20 +57,63 @@
             <div class="container">
                 <div class="row justify-content-lg-between align-items-lg-center">
                     <div class="col-lg-5 order-lg-2 mb-7 mb-lg-0">
-                        <div class="pl-lg-7">
-                            <div class="mb-4">
-                                <h3 class="h5">Professional design</h3>
-                                <p>Easy and fast adjustments of elements are possible with Front template. Find our more
-                                    about our all-in-one programmatic template.</p>
-                            </div>
-
-                            <a class="card border-0 shadow-sm" href="#">
-                                <div class="card-body p-4">
-                                    <div class="media align-items-center">
-                                    </div>
-                                </div>
-                            </a>
+                        <div class="mb-5">
+                            <h4>Disha Pages</h4>
+                            <h2 class="font-weight-bold">Create a one-page site on your phone</h2>
+                            <p>Create, edit and publish a beautiful responsive website instantly. Zero code / design
+                                thinking required.</p>
                         </div>
+
+                        <ul class="list-unstyled">
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Add links, images, videos, and text in sections</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Customize fonts, colours and custom domain</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Track page views, top links and total clicks</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Quick links for social media, phone and email</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Import links from Linktree</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Light & Dark Mode included</p>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
 
                     <div id="SVGdrawingWoman" class="col-lg-6 order-lg-1 pb-lg-0 pb-3">
@@ -84,20 +127,55 @@
             <div class="container">
                 <div class="row justify-content-lg-between align-items-lg-center">
                     <div class="col-lg-5 mb-7 mb-lg-0">
-                        <div class="pr-lg-7">
-                            <div class="mb-4">
-                                <h3 class="h5">Front process</h3>
-                                <p>Once you are invited to Front Agency, you company will be set within days. We help to
-                                    take of all the paperwork.</p>
-                            </div>
-
-                            <a class="card border-0 shadow-sm" href="#">
-                                <div class="card-body p-4">
-                                    <div class="media align-items-center">
-                                    </div>
-                                </div>
-                            </a>
+                        <div class="mb-5">
+                            <h4>Disha Signatures</h4>
+                            <h2 class="font-weight-bold">Generate your HTML email signature</h2>
+                            <p>Create HTML email signatures easily. Choose colours, layouts, add links and banners.
+                                Engage and increase sales from every email sent.</p>
                         </div>
+
+                        <ul class="list-unstyled">
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Create HTML email signatures in less than a minute</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Professional layouts that suit your brand</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Customize fonts, colours, and image style</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Add Banners, custom text and disclaimer</p>
+                                </div>
+                            </li>
+                            <li class="media align-items-center pb-2">
+                                <span class="btn btn-icon btn-sm btn-soft-warning rounded-circle mr-3">
+                                    <span class="fas fa-check btn-icon__inner"></span>
+                                </span>
+                                <div class="media-body">
+                                    <p class="text-dark mb-0">Add links for social media, phone and email</p>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
 
                     <div id="SVGdrawingWoman" class="col-lg-6 order-lg-1 pb-lg-0 pb-3">
