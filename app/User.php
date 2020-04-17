@@ -36,4 +36,9 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function stats()
+    {
+        return $this->hasMany('App\FinancialHistory', 'user_id', 'id');
+    }
 }

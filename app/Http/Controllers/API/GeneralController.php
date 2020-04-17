@@ -5,6 +5,7 @@ namespace App\Http\Controllers\API;
 use App\Http\Controllers\Controller;
 use App\Order;
 use App\Transformers\Json;
+use App\User;
 use Illuminate\Http\Request;
 
 class GeneralController extends Controller
@@ -23,5 +24,28 @@ class GeneralController extends Controller
         }
     }
 
+    public function stats(Request $request)
+    {
+        $rules = [
+            'email' => 'required|exists:users,email',
+            'secret' => 'required',
+        ];
 
+        $validator = $this->validate($request, $rules);
+
+        if (!$validator) {
+            return response()->json(Json::response(422, ['error' => $validator->errors()], "Validation error"), 422);
+        } else {
+            $user = User::where([
+                ['email', '=', $request->email],
+                ['secret_code', '=', $request->secret],
+            ])->with('stats')->first();
+
+            if ($user) {
+                return response()->json(Json::response(200, ['statistics' => $user->stats], "Financial history retrieved"), 200);
+            } else {
+                return response()->json(Json::response(401, [], "Email / Secret code mismatch"), 401);
+            }
+        }
+    }
 }
