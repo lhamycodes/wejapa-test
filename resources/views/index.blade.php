@@ -138,17 +138,18 @@
             </div>
         </div>
     </div>
-    <div class="container space-top-1 space-bottom-2">
+
+    <div class="container space-top-1 space-bottom-1">
         <div class="row text-white">
             <div class="col-lg-3 mb-7 mb-lg-0">
                 <div class="d-flex align-self-start flex-column h-100">
-                    <a class="d-flex align-items-center mb-3" href="/" aria-label="Pag.es">
-                        <span class="brand brand-primary font-weight-normal text-white">Pag.es</span>
+                    <a class="text-lg-left text-center mb-lg-3" href="/" aria-label="Pag.es">
+                        <span class="brand brand-primary font-weight-normal text-white mx-0">Pag.es</span>
                     </a>
                 </div>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right text-center">
                 <h4 class="h6 font-weight-semi-bold">Products</h4>
 
                 <ul
@@ -158,7 +159,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right text-center">
                 <h4 class="h6 font-weight-semi-bold">Company</h4>
 
                 <ul
@@ -168,7 +169,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right text-center">
                 <h4 class="h6 font-weight-semi-bold">Legal</h4>
 
                 <ul
@@ -179,7 +180,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right">
+            <div class="col-6 col-sm-4 col-md-3 col-lg-2 mb-4 mb-md-0 text-lg-right text-center">
                 <h4 class="h6 font-weight-semi-bold">Connect</h4>
 
                 <ul
