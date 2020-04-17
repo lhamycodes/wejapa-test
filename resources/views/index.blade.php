@@ -118,7 +118,26 @@
     </div>
 </main>
 
-<footer style="background-color:black">
+<div style="background-color:black">
+    <div class="container space-2">
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6 position-relative text-center">
+                <h1 class="text-white font-weight-2 font-size-md-down-5 mb-0" data-scs-animation-in="fadeInUp">
+                    <span class="font-weight-semi-bold">Small team with<br>big ambitions</span>
+                </h1>
+
+                <span class="d-block h4 text-white-50 font-weight-light py-5" data-scs-animation-in="fadeInUp"
+                    data-scs-animation-delay="200">
+                    Our founding team has a diverse background in software development, user experience design,
+                    analytics, and media from working with startups and established businesses at Cregital.
+                </span>
+
+                <a class="btn btn-sm btn-primary transition-3d-hover" href="#">
+                    More about us
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="container space-top-1 space-bottom-2">
         <div class="row text-white">
             <div class="col-lg-3 mb-7 mb-lg-0">
@@ -172,5 +191,5 @@
             </div>
         </div>
     </div>
-</footer>
+</div>
 @endsection
