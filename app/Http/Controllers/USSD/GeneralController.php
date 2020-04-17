@@ -75,9 +75,9 @@ class GeneralController extends Controller
         $user = User::with('stats')->first();
         if ($user->secret_code == $pin) {
             $out = "Financial History\n";
-            $out .= "Month\tIncome\tExpenses";
+            $out .= "Month\tIncome\tExpenses\n";
             foreach ($user->stats as $key => $stat) {
-                $out .= "$stat->month\t$stat->income\t$stat->expenses";
+                $out .= "$stat->month\t$stat->income\t$stat->expenses\n";
             }
             $this->ussd_stop($out);
         } else {
