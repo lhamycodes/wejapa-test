@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('track', 'API\GeneralController@track');
+Route::get('track/{order}/{info}', 'API\GeneralController@track');
 Route::post('stats', 'API\GeneralController@stats');
