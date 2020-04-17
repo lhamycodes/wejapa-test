@@ -2604,20 +2604,20 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #377dff;
-  border-color: #377dff;
+  background-color: #FF7F00;
+  border-color: #FF7F00;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #1164ff;
-  border-color: #045cff;
+  background-color: #FF7F00;
+  border-color: #FF7F00;
 }
 
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #1164ff;
-  border-color: #045cff;
+  background-color: #FF7F00;
+  border-color: #FF7F00;
   box-shadow: 0 0 0 0.2rem rgba(85, 145, 255, 0.5);
 }
 
@@ -13282,7 +13282,7 @@ button:focus {
 }
 
 .u-header__navbar-brand-text, .u-header__navbar-brand-text:focus, .u-header__navbar-brand-text:hover {
-  color: #377dff;
+  color: #FF7F00;
 }
 
 .u-header__navbar-brand-text-white .u-header__navbar-brand-text, .u-header__navbar-brand-text-white .u-header__navbar-brand-text:focus, .u-header__navbar-brand-text-white .u-header__navbar-brand-text:hover {
@@ -17109,8 +17109,8 @@ button:focus {
 }
 
 .btn-primary:hover {
-  background-color: #377dff;
-  border-color: #377dff;
+  background-color: #FF7F00;
+  border-color: #FF7F00;
 }
 
 /* secondary button :hover, :focus, :active effects */
